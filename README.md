@@ -1,4 +1,14 @@
 ## Hi there 👋
+My name is Rafael Calisto, I graduated in mechanical engineering in 2014, now I am changing my career into tech.
+
+I am passionated about Python language and how powerfull this language can be.
+
+Currently under the Software Engineer bootcamp to get more skills and land my first job in tech.
+
+github: https://github.com/RafaelCalisto09
+LinkedIn: https://www.linkedin.com/in/rafael-calisto-937b6524/
+
+I love music, I have been playing violin over 20 years and teaching in the church.
 
 <!--
 **RafaelCalisto09/RafaelCalisto09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
